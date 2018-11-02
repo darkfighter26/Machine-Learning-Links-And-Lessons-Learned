@@ -130,7 +130,7 @@ Awesome, so now you should have a decent understanding of where ML and DL are in
 
 ## Most Important Deep Learning Papers
 
-Not a comprehensive list by any sense. I just thought these papers were incredibly influential in getting deep learning to where it is today. 
+Not a comprehensive list by any sense. I just thought these papers were incredibly influential in getting deep learning to where it is today. I also add a couple important general ML papers from time to time. 
 
 * [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [GoogLeNet](https://arxiv.org/pdf/1409.4842v1.pdf)
@@ -188,6 +188,7 @@ Not a comprehensive list by any sense. I just thought these papers were incredib
 * [WaveNet](https://arxiv.org/pdf/1609.03499.pdf)
 * [Hidden Technical Debt in ML Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 * [MobileNets](https://arxiv.org/pdf/1704.04861.pdf)
+* [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf)
 
 ## Cool Use Cases of ML
 
@@ -230,6 +231,7 @@ Not a comprehensive list by any sense. I just thought these papers were incredib
 * [From Generative Models to Generative Agents - Koray Kavukcuoglu](https://www.youtube.com/watch?v=N5oZIO8pE40)
 * [A Neural Network Model That Can Reason - Christopher Manning](https://www.youtube.com/watch?v=jpNLp9SnTF8)
 * [ICLR 2018 Fireside Chat - Daphne Koller](https://www.youtube.com/watch?v=N4mdV1CIpvI)
+* [Test of Time NIPS 2017 - Ali Rahimi](https://www.youtube.com/watch?v=ORHFOnaEzPc)
 
 ## Best Blogs
 
@@ -259,6 +261,8 @@ Not a comprehensive list by any sense. I just thought these papers were incredib
 * [Apple Machine Learning Journal](https://machinelearning.apple.com/)
 * [OpenAI](https://blog.openai.com/)
 * [Lab41](https://gab41.lab41.org/tagged/machine-learning)
+* [Depth First Learning](http://www.depthfirstlearning.com/)
+* [The Gradient](https://thegradient.pub/)
 * [Distill](https://distill.pub/)
 * [My blog :)](https://adeshpande3.github.io/)
 
@@ -309,6 +313,7 @@ Not a comprehensive list by any sense. I just thought these papers were incredib
 * SVM’s
     * [What are C and Gamma?](https://www.quora.com/What-are-C-and-gamma-with-regards-to-a-support-vector-machine/answer/Rohan-Varma-8?srid=JlQJ) 
 * The Deep Learning book says that the learning rate is the most important hyperparameter in most deep networks, and I do have to agree. A low LR makes training unbearably slow (and could get stuck in some minima), while a high LR can make training extremely unstable. 
+* [Hyperopt](http://hyperopt.github.io/hyperopt/): A Python library for hyperparameter optimization
 
 ## Tensorflow/Deep Nets
 
@@ -440,6 +445,7 @@ Some cool articles and blog posts on RL.
 * [Judea Pearl Interview](https://www.quantamagazine.org/to-build-truly-intelligent-machines-teach-them-cause-and-effect-20180515/)
 * [State of AI in 2018](https://www.stateof.ai/)
 * [A New Angle on L2 Regularization](https://thomas-tanay.github.io/post--L2-regularization/)
+* [Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
 ## UCLA ACM AI Resources
 
